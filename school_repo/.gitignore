@@ -1,0 +1,5 @@
+# Ignore tous les fichiers de log
+*.log
+
+# Ignore les éléments dans le dossier de configuration
+/conf
