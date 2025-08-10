@@ -2,4 +2,4 @@
 *.log
 
 # Ignore les éléments dans le dossier de configuration
-/conf
+conf/
